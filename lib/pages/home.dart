@@ -61,7 +61,7 @@ class _HomeState extends State<Home> {
                         ),
                       ),
                       Text(
-                        'Камера',
+                        'Камераa',
                         style: TextStyle(fontSize: 20),
                       ),
                     ],
